@@ -1,4 +1,4 @@
-const _ = require('lodash')
-const rx = require('rxjs')
+import _ from 'lodash'
+import rx from 'rxjs'
 
 alert('hello from lodash & rxjs!')
